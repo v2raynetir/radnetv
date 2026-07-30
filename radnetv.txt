@@ -1,4 +1,3 @@
-vless://d74b496c-8739-11f1-b09b-00163cbe6c97@185.253.117.26:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#ImOmidrad%201
-vless://d0230770-873d-11f1-a7f3-b770ebb442f7@89.218.15.100:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#ImOmidrad%202
-vless://cfe41fe6-873e-11f1-bf11-37cf366b8be4@83.217.211.231:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#ImOmidrad%203
-vless://75da25b6-8740-11f1-9eae-d3f7d529d146@92.118.170.240:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#ImOmidrad%204
+vless://59b59634-8c33-11f1-bcf2-6708f944d16c@92.118.170.240:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad%203
+vless://1e84c630-8c32-11f1-8dea-f355f3158498@82.47.62.105:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad%201
+vless://33b1837c-8c32-11f1-8ebd-5254f882a642@38.54.45.142:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad%202
