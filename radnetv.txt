@@ -1,2 +1,4 @@
 vless://ce155f24-bfcc-11f1-91eb-d35638d2edd1@89.218.15.100:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#KZ%202
 vless://86bcf72e-bfcf-11f1-833c-27a4740c8144@103.253.72.41:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Th%204
+vless://5fdfe178-bfd1-11f1-8e72-c334ccb32ec7@220.158.233.5:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Cambodia%202
+vless://a963ea24-bfd6-11f1-a0b9-a37451f5cc7b@185.65.202.122:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Germany%208
