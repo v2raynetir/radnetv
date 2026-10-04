@@ -1,1 +1,2 @@
-vless://ce155f24-bfcc-11f1-91eb-d35638d2edd1@89.218.15.100:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit
+vless://ce155f24-bfcc-11f1-91eb-d35638d2edd1@89.218.15.100:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#KZ%202
+vless://86bcf72e-bfcf-11f1-833c-27a4740c8144@103.253.72.41:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Th%204
