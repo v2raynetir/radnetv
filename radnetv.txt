@@ -3,6 +3,9 @@
 #announce: 🔔 اطلاعیه
 #announce: هر روز یک بار اشتراک خود را آپدیت کنید!
 
+#profile-title: VPN
+#announce: 🔔 اطلاعیه
+#announce: هر روز یک بار اشتراک خود را آپدیت کنید!
 
 
 
