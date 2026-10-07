@@ -1,6 +1,8 @@
-#profile-title: VPN
-#announce: 🔔 اطلاعیه
-#announce: هر روز یک بار اشتراک خود را آپدیت کنید!
+const CONFIG = {
+  TITLE: "VPN",
+  SUPPORT_URL: "",
+  ANNOUNCE: "**هر روز آپدیت بزنید**"
+};
 
 
 
