@@ -1,5 +1,5 @@
-vless://68c87a54-ca29-11f1-b365-f3e08ea7153e@89.218.15.100:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad1
-vless://9941a7f4-ca2a-11f1-969f-83a5f566f5de@193.106.249.118:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad2
-vless://60185e68-ca2b-11f1-aacf-00163e6085c8@192.3.228.238:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad3
-vless://953b33cc-ca2b-11f1-8651-7b7d016c246d@92.118.170.240:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad4
-vless://f1307d18-ca2b-11f1-91de-ebab628f51a1@37.221.66.166:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Omidrad5
+vless://68c87a54-ca29-11f1-b365-f3e08ea7153e@89.218.15.100:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#V2RAYNETIR1%20-%20%40V2RAYNETIR
+vless://9941a7f4-ca2a-11f1-969f-83a5f566f5de@193.106.249.118:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#V2RAYNETIR2%20-%20%40V2RAYNETIR
+vless://60185e68-ca2b-11f1-aacf-00163e6085c8@192.3.228.238:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#V2RAYNETIR3%20-%20%40V2RAYNETIR
+vless://953b33cc-ca2b-11f1-8651-7b7d016c246d@92.118.170.240:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#V2RAYNETIR4%20-%20%40V2RAYNETIR
+vless://f1307d18-ca2b-11f1-91de-ebab628f51a1@37.221.66.166:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#V2RAYNETIR5%20-%20%40V2RAYNETIR
